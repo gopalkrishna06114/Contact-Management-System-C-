@@ -26,9 +26,13 @@ A console-based Contact Management System built in C++ using object-oriented pro
 
 📋 How to Run the Project
   Steps:
+  
     1. Clone the repository: git clone https://github.com/your-username/contact-management-system.git
+    
     2. Open the project in your preferred C++ IDE (CodeBlocks, Visual Studio, etc.) or terminal-based compiler.
+    
     3. Compile the code.
+    
     4. Run the executable.
 
 🎮 How to Use
